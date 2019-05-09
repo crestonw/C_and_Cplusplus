@@ -1,0 +1,85 @@
+4.) Convert the following hex values to decimal assuming that they are stored as 2's complement integers.
+
+a. 0x000000FF
+
+Binary: 0000 0000 0000 0000 0000 0000 1111 1111
+Decimal: 255
+So we take the complement and then add one to the binary.
+Binary: 1111 1111 1111 1111 1111 1111 0000 0001
+Decimal: -255 
+
+b. 0xFFFFFCE6
+
+Binary: 1111 1111 1111 1111 1111 1100 1110 0110
+So we take the complement and then add one to the binary.
+Binary: 0000 0000 0000 0000 0000 0011 0001 1001
+Convert to decimal: 1 + 8 + 16 + 256 + 512 = 794 and it's a complement so the sign is flipped.
+Decimal: -794
+
+
+c. 0xFFFFFFFF
+
+Binary: 1111 1111 1111 1111 1111 1111 1111 1111
+So we take the complement and then add one to the binary.
+Binary: 0000 0000 0000 0000 0000 0000 0000 0001
+Which is equal to -1 in decimal, because the initial binary is all 1's.
+
+5.) Convert the following hex values to decimal assuming that they are encoded as IEEE 754 single-precision floating-point numbers.
+
+a. 0x80000000
+
+Binary: 1000 0000 0000 0000 0000 0000 0000 0000
+S: negative = 1
+E: 0000 0000 = 0 - Bias = -127
+F: 1.0 * 2^-127
+Decimal: 5.877 * 10^-39
+
+b. 0x41220000
+
+Binary: 0100 0001 0010 0010 0000 0000 0000 0000
+S: positive = 0
+E: 1000 0010 = 130 - Bias = 130 - 127 = 3
+F: 1.0100010 * 2^3 = 1010.001 
+Decimal: 10 1/8
+
+c. 0xC39D0000
+
+Binary: 1100 0011 1001 1101 0000 0000 0000 0000
+S: negative = 1
+E: 1000 0111 = 135 - Bias = 135 - 130 = -5
+F: 1.0011101 * 2^-5 = .000010011101
+Decimal: (-1) * 1/32 + 1/256 + 1/512 + 1/1024 + 1/4096 = -159/4096
+
+6.) Convert the following decimal numbers to hex encoded as IEEE 754 single-precision floating-point numbers.
+
+a. 1.0
+
+F: 1.0 * 2^0
+E: Exponent - 127 = 0 so exponent is 127 which is 0111 1111
+S: positive = 0
+Binary: 0011 1111 1000 0000 0000 0000 0000 0000
+Hex: 0x3F800000
+
+b. 8.25
+
+F: 1.00001 * 2^3 = 1000.01
+E: Exponent - 127 = 3 so exponent is 130 which is 1000 0010
+S: positive = 0
+Binary: 0100 0001 0000 0100 0000 0000 0000 0000 
+Hex: 0x41040000
+
+c. -25.125
+
+F: 11001.001 = 1.1001001 * 2^4
+E: Exponent - 127 = 4 so exponent is 131 which is 1000 0011
+S: negative = 1
+Binary: 1100 0001 1100 1001 0000 0000 0000 0000
+Hex: 0xC1C90000 
+
+
+
+
+
+
+
+

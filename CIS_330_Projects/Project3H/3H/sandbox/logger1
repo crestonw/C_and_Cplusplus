@@ -1,0 +1,2024 @@
+Entered program from ybl
+
+Grayscale: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+TBCombine: about to update input1
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input1
+TBCombine: about to update input2
+LRCombine: about to update input1
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input1
+LRCombine: about to update input2
+Shrinker: about to update input1
+Grayscale: about to update input1
+Blur: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRCombine: done updating input2
+LRCombine: about to execute
+LRCombine: done executing
+TBCombine: done updating input2
+TBCombine: about to execute
+TBCombine: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
